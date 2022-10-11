@@ -1,17 +1,16 @@
-![I'm a Full-Stack Developer](https://media-exp1.licdn.com/dms/image/C5616AQGJ-BxW9foG6g/profile-displaybackgroundimage-shrink_350_1400/0/1623512339298?e=1665014400&v=beta&t=MNKpOSKJwGSgPwsFHboy0hA_lGY0N-z6_KJD6v4qQOM)
+![I'm a Full-Stack Developer](![image](https://user-images.githubusercontent.com/77194880/195100527-0509b869-50e4-4f35-9d36-ce0d0660554e.png)
+)
 
 ### Hi there 👋, I'm Developer Nahid Islam
-#### I'm a Full-Stack Developer
-
 
 Nahid Islam is a Full-stack Developer | Front-end | Backend Expert | Modern PHP Developer | Laravel Expert | WordPress Expert | I'm also an expert in JavaScript | MongoDB, Express Js, React Js, and NodeJs (MERN). I've 2 years of working experience.
 
 Skills: HTML / CSS / JS / REACT JS / MONGODB / EXPRESS JS/ NODE JS / PHP / LARAVEL / MYSQL
 
-- 🔭 I’m currently working on MERN Stack 
-- 🌱 I’m currently learning JavaScript  
-- 💬 Ask me about Web Development related any question. 
-- 📫 How to reach me: Contact social media 
+- 🔭 I’m currently working on MERN Stack.
+- 🌱 I always like to learn new things. 
+- 💬 I can help you with any questions you have about web development. 
+- 📫 How to reach me: Contact social media.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=devnahidislam)](https://github.com/ryo-ma/github-profile-trophy)
 
