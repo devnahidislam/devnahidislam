@@ -1,6 +1,3 @@
-![I'm a Full-Stack Developer](![image](https://user-images.githubusercontent.com/77194880/195100527-0509b869-50e4-4f35-9d36-ce0d0660554e.png)
-)
-
 ### Hi there 👋, I'm Developer Nahid Islam
 
 Nahid Islam is a Full-stack Developer | Front-end | Backend Expert | Modern PHP Developer | Laravel Expert | WordPress Expert | I'm also an expert in JavaScript | MongoDB, Express Js, React Js, and NodeJs (MERN). I've 2 years of working experience.
