@@ -7,7 +7,7 @@ Skills: HTML / CSS / JS / REACT JS / MONGODB / EXPRESS JS/ NODE JS / PHP / LARAV
 - 🔭 I’m currently working on MERN Stack.
 - 🌱 I always like to learn new things. 
 - 💬 I can help you with any questions you have about web development. 
-- 📫 How to reach me: Contact social media.
+- 📫 How to reach me: Contact social media...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
