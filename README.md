@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Developer Nahid Islam
 
-Nahid Islam is a Full-stack Developer | Front-end | Backend Expert | Modern PHP Developer | Laravel Expert | WordPress Expert | I'm also an expert in JavaScript | MongoDB, Express Js, React Js, and NodeJs (MERN). I've 2 years of working experience.
+Nahid Islam is a Full-stack Developer | Front-end | Backend Expert | MERN Stack Developer | PHP Laravel Expert | WordPress Expert | I'm also an expert in JavaScript | MongoDB, Express Js, React Js, and NodeJs (MERN). I've 2 years of working experience.
 
 Skills: HTML / CSS / JS / REACT JS / MONGODB / EXPRESS JS/ NODE JS / PHP / LARAVEL / MYSQL
 
